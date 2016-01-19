@@ -23,4 +23,6 @@ public class Song {
     public String getArtist(){
         return artist;
     }
+
+    // je suis trop fort
 }
