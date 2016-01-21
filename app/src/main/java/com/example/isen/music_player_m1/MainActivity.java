@@ -33,6 +33,8 @@ public class MainActivity extends AppCompatActivity implements MediaPlayerContro
     private ArrayList<Song> songList;
     private ListView songView;
 
+    //hello
+
     //Service
     private MusicService musicSrv;
     private Intent playIntent;
